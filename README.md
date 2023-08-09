@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## A big thanks to JavaScript Mastery for their video on how to Build and Deploy a Full Stack App Using the Official React Framework (https://github.com/adrianhajdin/project_next_13_ai_prompt_sharing/tree/main)
+
 ![Home Page](/media/Home-page.png)
 ![Profile](/media/profile-page.png)
 
